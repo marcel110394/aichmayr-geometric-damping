@@ -7,7 +7,7 @@ an mich
 
 This repository accompanies the Zenodo publication:
 
-**DOI:** https://doi.org/10.5281/zenodo.17960475
+**DOI:** https://doi.org/10.5281/zenodo.17980982
 
 
 The work introduces a geometrical damping framework applied to
